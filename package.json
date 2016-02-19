@@ -1,0 +1,33 @@
+{
+  "name": "run-unit",
+  "author": {
+    "email": "hi@unitcluster.com",
+    "name": "UnitCluster"
+  },
+  "bugs": {
+    "url": "https://github.com/unitcluster/rununit/issues"
+  },
+  "dependencies": {},
+  "description": "Require UnitCluster units as modules",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/unitcluster/rununit",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "vlad-x",
+      "email": "vlad@difogic.com"
+    }
+  ],
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitcluster/rununit"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
+
